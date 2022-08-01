@@ -3,3 +3,20 @@
   object-position: 0 90%;
   height: 400px;
 }
+
+.fonte-titulo  {
+  font-family: 'Pacifico', cursive;
+}
+
+.cor-titulo {
+  color: #8b0000;
+}
+
+.cor-btn {
+  background-color: #8b0000 !important;
+  color: #fff !important;
+}
+
+.cor-borda {
+  border-color: #8b0000 !important;
+}
