@@ -13,10 +13,15 @@
 }
 
 .cor-btn {
-  background-color: #8b0000 !important;
-  color: #fff !important;
+  background-color: #8b0000;
+  color: #fff;
 }
 
 .cor-borda {
-  border-color: #8b0000 !important;
+  border-color: #8b0000;
+}
+
+.card-imagem {
+  object-fit: cover;
+  height: 200px;
 }
