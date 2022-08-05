@@ -3,5 +3,6 @@
 adaptar algumas coisas para que o projeto fluísse bem.</p>
 <p>A idéia é que seja um projeto responsivo, mas que foi pensado em Responsive Designe. Pretendo trazer um próximo projeto, em Mobile First, ainda utilizando
 as técnicas que aprendi em bootstrap nesse curso.</p>
-<blockquoat>
+
+<h1></h1>
 <p>Link para o projeto na <a href="https://fruta-fruto-blush.vercel.app">Vercel</a> para acompanhamento. </p>
